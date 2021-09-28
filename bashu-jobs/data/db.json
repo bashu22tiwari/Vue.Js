@@ -1,0 +1,7 @@
+{
+    "jobs" : [
+        {"title":"Bashu UX Designer", "id":1 , "details":"loreum"},
+        {"title":"Bashu Web Developer", "id":2 , "details":"loreum"},
+        {"title":"Bashu Vue Developer", "id":3 , "details":"loreum"}
+    ]
+}
